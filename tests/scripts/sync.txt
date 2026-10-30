@@ -1,0 +1,55 @@
+# Bass and kick together on every beat at 130 BPM (steps fall part-way through frames).
+# Recorded twice from identical runs: synths only, then drums only. The synth note is high (C6) so
+# the square wave's first half-cycle, which may be silent, can't hide its start.
+run 30
+tap START
+hold R
+tap R+UP
+tap R+UP
+tap R+UP
+hold none
+tap A
+tap RIGHT
+tap RIGHT
+tap RIGHT
+tap RIGHT
+tap A
+tap RIGHT
+tap RIGHT
+tap RIGHT
+tap RIGHT
+tap A
+tap RIGHT
+tap RIGHT
+tap RIGHT
+tap RIGHT
+tap A
+tap SELECT
+tap SELECT
+tap SELECT
+tap A
+tap RIGHT
+tap RIGHT
+tap RIGHT
+tap RIGHT
+tap A
+tap RIGHT
+tap RIGHT
+tap RIGHT
+tap RIGHT
+tap A
+tap RIGHT
+tap RIGHT
+tap RIGHT
+tap RIGHT
+tap A
+tap SELECT
+tap L
+tap RIGHT
+tap L
+tap SELECT
+MUTE
+wav OUT/WAVNAME
+tap B
+run 240
+endwav

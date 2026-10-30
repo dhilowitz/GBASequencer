@@ -1,0 +1,5 @@
+--target=arm-none-eabi
+-mcpu=arm7tdmi
+-mthumb
+-std=gnu11
+-ffreestanding

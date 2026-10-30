@@ -1,0 +1,5 @@
+/build/
+/gbasequencer.gba
+/tools/harness/harness
+/tests/out/
+.DS_Store

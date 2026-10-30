@@ -1,0 +1,15 @@
+// *** Tektronic Wave Converter *** //
+// This is a generated C/C++ file. Do not edit!
+
+#define _signedunsigned signed
+#include "TektronicWave.h"
+
+#ifndef	TEKTRONIC_WAVE_SOUND_HEADER_FILE
+#define	TEKTRONIC_WAVE_SOUND_HEADER_FILE
+
+extern /*"C"*/ const PCMSOUND _drumbox_snare1;
+extern /*"C"*/ const PCMSOUND _drumbox_bd1;
+extern /*"C"*/ const PCMSOUND _drumbox_Cl_Hh;
+
+#endif
+

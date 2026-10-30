@@ -1,0 +1,14 @@
+each square is 12 wide including one line (the one to the right). 
+in other words 11 px of white and 1 px of line.
+each square is 8 high including 1 line.
+the top left corner is 32,28
+
+rflags[] elements:
+	0	main background
+	1	sequence data
+	2	cursor
+	3	keboard
+	4	right scroll thumb (vertical)
+	5	current field box (box that goes around the current field)
+	6	pattern selection cursor
+	7	playback head

@@ -1,0 +1,42 @@
+# Kick on every beat at 150 BPM, arranged over two song positions: beats must be exactly 400 ms
+# apart, including across the change of position.
+run 30
+tap START
+tap SELECT
+tap SELECT
+tap SELECT
+tap A
+tap RIGHT
+tap RIGHT
+tap RIGHT
+tap RIGHT
+tap A
+tap RIGHT
+tap RIGHT
+tap RIGHT
+tap RIGHT
+tap A
+tap RIGHT
+tap RIGHT
+tap RIGHT
+tap RIGHT
+tap A
+tap SELECT
+tap L
+tap RIGHT
+tap RIGHT
+tap RIGHT
+tap L
+tap DOWN
+tap DOWN
+tap DOWN
+tap A
+tap RIGHT
+tap A
+tap LEFT
+shot OUT/timing_song.ppm
+wav OUT/timing.wav
+tap B
+run 360
+endwav
+tap B

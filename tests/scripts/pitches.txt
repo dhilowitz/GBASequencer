@@ -1,0 +1,48 @@
+# One note on each synth, played alone, then a kick.
+run 30
+tap START
+# Bass: C3
+tap A
+wav OUT/bass.wav
+tap B
+run 40
+tap B
+endwav
+tap A
+tap SELECT
+# Syn 2: E4
+tap UP
+tap UP
+tap UP
+tap UP
+tap A
+wav OUT/syn2.wav
+tap B
+run 40
+tap B
+endwav
+tap A
+tap SELECT
+# Syn 3: A4
+hold R
+tap R+UP
+hold none
+tap DOWN
+tap DOWN
+tap DOWN
+tap A
+wav OUT/syn3.wav
+tap B
+run 40
+shot OUT/syn3_playing.ppm
+tap B
+endwav
+tap A
+tap SELECT
+# Drums: kick
+tap A
+wav OUT/kick.wav
+tap B
+run 40
+tap B
+endwav
